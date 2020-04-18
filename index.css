@@ -1,0 +1,1154 @@
+#body {
+width : 1330px;
+height : 4000px;
+}
+
+#top_bar {
+height : 25px;
+width : 1330px;
+border : 1px solid;
+border-color : transparent transparent silver transparent;
+
+}
+#img1 {
+float : left;
+margin-left : 100px;
+}
+
+#img2{
+float : left;
+margin-left : 20px;
+}
+
+#img3 {
+float : left;
+margin-left : 20px;
+}
+
+#img4 {
+float : left;
+margin-left : 20px;
+}
+
+#img5 {
+float : left;
+margin-left : 20px;
+}
+
+#one {
+float : right;
+margin-right : 200px;
+width: 70px;
+height : 15px;
+border : 1px solid transparent;
+text-align : center;
+padding : 2px;
+}
+
+#two {
+float : right;
+margin-right : 0px;
+width: 70px;
+height : 15px;
+border : 1px solid;
+border-color : transparent silver  transparent transparent;
+text-align : center;
+padding : 2px;
+}
+
+#heading {
+position : relative;
+font-family : 'Shadows Into Light', Arial,sans-serif;
+font-size : 60px;
+margin-top : 30px;
+}
+
+#navigation_bar {
+position : relative;
+margin-left : 290px;
+}
+
+ul {
+list-style-type : none;
+margin : 0;
+padding : 0;
+overflow : hidden;
+margin-top : 25px;
+}
+
+li {
+float : left;
+margin : 0;
+padding : 0;
+}
+
+li a {
+display : block;
+background-color : white;
+text-decoration : none;
+text-align : center;
+padding : 8px 20px;
+}
+
+li a:hover {
+background-color : ;
+}
+
+ a.current  {
+color : red;
+}
+
+#image1 {
+float : left;
+margin-left : 20px;
+position : relative;
+width: 317px;
+height : 400px;
+background-image : url(slide-1.jpg);
+background-size : cover;
+}
+
+#image2 {
+float : left;
+position : relative;
+width: 317px;
+height : 400px;
+background-image : url(slide-2.jpg);
+margin-left : 4px;
+background-size : cover;
+}
+
+#image3 {
+float : left;
+position : relative;
+width: 317px;
+height : 400px;
+background-image : url(slide-3.jpg);
+background-size : cover;
+margin-left : 4px;
+}
+
+#image4 {
+float : left;
+position : relative;
+background-image : url(slide-4.jpg);
+background-size : cover;
+width: 317px;
+height : 400px;
+margin-left : 4px;
+}
+
+#block1 {
+float : left;
+margin-left : 155px;
+width : 1000px;
+height : 2770px;
+}
+
+#food {
+float : left;
+margin-top : 50px;
+width : 320px;
+height : 250px;
+border-radius : 30px;
+background-image: url(16.jpg);
+background-size : cover;
+}
+
+#cooking {
+float : left;
+margin-left : 20px;
+margin-top : 50px;
+width : 320px;
+height : 250px;
+border-radius : 30px;
+background-image: url(2.jpg);
+background-size : cover;
+}
+
+#lifestyle {
+float : left;
+margin-left : 20px;
+margin-top : 50px;
+width : 320px;
+border-radius : 30px;
+height : 250px;
+background-image: url(3.jpg);
+background-size : cover;
+}
+
+#food_cooking {
+float : left;
+margin-top : 50px;
+width : 660px;
+height : 450px;
+border-radius : 30px;
+background-image : url(food_cooking.jpg);
+background-size : cover;
+}
+
+#about_me {
+float : left;
+margin-left : 20px;
+margin-top : 50px;
+width : 320px;
+height : 40px;
+background-color : pink;
+}
+#ab {
+margin-top : 8px;
+}
+
+#color {
+float : left;
+margin-left : 90px;
+width : 170px;
+height : 170px;
+margin-top : 30px; 
+border-radius : 50%;
+background-image : url(18.jpg);
+background-size : cover;
+display :inline-block;
+}
+
+#sophia {
+float : left;
+font-family : 'Shadows Into Light', Arial,sans-serif;
+font-size : 30px;
+margin-top : 180px;
+}
+
+#para {
+font-size : 20px;
+width : 320px;
+margin-top : 240px;
+margin-left : -70px;
+height : 100px;
+
+}
+
+#subscribe {
+float : left;
+position : relative;
+margin-left : -70px;
+margin-top : 5px;
+width : 320px;
+height : 40px;
+background-color : pink;
+}
+#sub{ 
+margin-top  :8px;
+}
+
+#aaaaa {
+float : left;
+width : 660px;
+height : 80px;
+margin-top : 50px;
+font-size : 32px;
+}
+
+#bbbbb {
+float : left;
+width : 660px;
+height : 40px;
+}
+
+#popular {
+float : left;
+width : 320px;
+margin-top : -25px;
+margin-left : 20px;
+height : 40px;
+background-color : pink;
+}
+#pop {
+margin-top : 8px;
+}
+
+#img1_1 {
+float : left;
+margin-left : 100px;
+margin-top : -80px;
+}
+
+#img2_2 {
+float : left;
+margin-left : 130px;
+margin-top : -80px;
+}
+
+#img3_3 {
+float : left;
+margin-left : 160px;
+margin-top : -80px;
+}
+
+#img4_4 {
+float : left;
+margin-left : 190px;
+margin-top : -80px;
+}
+
+#img5_5 {
+float : left;
+margin-left : 220px;
+margin-top : -80px;
+}
+
+#img6_6 {
+float : left;
+margin-left : 250px;
+margin-top : -80px;
+}
+
+#block2 {
+float : right;
+width : 320px;
+height : 650px;
+}
+
+#ccccc {
+float : left;
+width : 160px;
+margin-top : 30px;
+height : 100px;
+margin-left : 0px;
+border-radius : 30px;
+background-image : url(1.jpg);
+background-size : cover;
+}
+
+
+#ddddd {
+float : right;
+width : 150px;
+margin-top : -115px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#eeeee {
+float : right;
+width : 150px;
+margin-top : -55px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#fffff {
+float : left;
+width : 160px;
+margin-top : 30px;
+height : 100px;
+margin-left : 0px;
+border-radius : 30px;
+background-image : url(abcde.jpg);
+background-size : cover;
+}
+
+#ggggg {
+float : right;
+width : 150px;
+margin-top : -115px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#hhhhh {
+float : right;
+width : 150px;
+margin-top : -55px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#iiiii {
+float : left;
+width : 160px;
+margin-top : 30px;
+height : 100px;
+background-size : cover;
+margin-left : 0px;
+border-radius : 30px;
+background-image : url(glass.jpg);
+}
+
+#jjjjj {
+float : right;
+width : 150px;
+margin-top : -115px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#kkkkk {
+float : right;
+width : 150px;
+margin-top : -55px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#lllll {
+float : left;
+width : 160px;
+margin-top : 30px;
+background-size : cover;
+height : 100px;
+margin-left : 0px;
+border-radius : 30px;
+background-image : url(plass.jpg);
+}
+
+#mmmmm {
+float : right;
+width : 150px;
+margin-top : -115px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#nnnnn {
+float : right;
+width : 150px;
+margin-top : -55px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#ooooo {
+float : left;
+width : 160px;
+margin-top : 30px;
+background-size : cover;
+height : 100px;
+margin-left : 0px;
+border-radius : 30px;
+background-image : url(toast.jpg);
+}
+
+#ppppp {
+float : right;
+width : 150px;
+margin-top : -115px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#qqqqq {
+float : right;
+width : 150px;
+margin-top : -55px;
+height : 50px;
+margin-left : 20px;
+border-radius : 30px;
+}
+
+#continue {
+float : left;
+width : 150px;
+height : 30px;
+border : 1px solid silver;
+border-radius : 30px;
+margin-top : 15px;
+margin-left : 2px;
+}
+#con {
+margin-top : 5px;
+}
+
+#block3 {
+float : left;
+width : 660px;
+height : 1750px;
+}
+
+#first {
+float : left;
+width : 320px;
+height : 200px;
+margin-top : 30px;
+border-radius : 30px;
+background-size : cover;
+background-image : url(hand.jpg);
+}
+
+#second {
+float : left;
+width : 320px;
+height : 200px;
+margin-top : 30px;
+margin-left : 20px;
+background-image : url(bowl.jpg);
+border-radius : 30px;
+background-size : cover;
+}
+
+#marian1 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-top  : 20px;
+}
+
+#mar1 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian2 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent  transparent grey;
+margin-top  : 20px;
+}
+
+#mar2 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+
+#marian3 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-top  : 20px;
+margin-left : 125px;
+}
+
+#mar3 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian4 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent transparent grey;
+margin-top  : 20px;
+}
+
+#mar4 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+#third {
+float : left;
+width : 320px;
+height : 120px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-top  :20px;
+}
+
+#fourth {
+float : left;
+margin-left : 20px;
+width : 320px;
+height : 120px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-top  :20px;
+}
+
+#marian5 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-top  : 20px;
+}
+
+#mar5 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian6 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent  transparent grey;
+margin-top  : 20px;
+}
+
+#mar6 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+
+#marian7 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-top  : 20px;
+margin-left : 125px;
+}
+
+#mar7 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian8 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent transparent grey;
+margin-top  : 20px;
+}
+
+#mar8 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+#fifth {
+float : left;
+width : 320px;
+height : 200px;
+margin-top : 20px;
+background-image : url(salt.jpg);
+background-size : cover;
+border-radius : 30px;
+}
+
+#sixth {
+float : left;
+width : 320px;
+height : 200px;
+margin-top : 20px;
+margin-left : 20px;
+background-image : url(chips.jpg);
+background-size : cover;
+border-radius : 30px;
+}
+
+#seventh {
+float : left;
+width : 320px;
+height : 75px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-top  :5px;
+}
+
+#eigth {
+float : left;
+margin-left : 20px;
+width : 320px;
+height : 75px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-top  :5px;
+}
+
+#ninth {
+float : left;
+margin-top  :20px;
+width : 320px;
+background-size : cover;
+height : 200px;
+border-radius : 30px;
+background-image : url(pasta.jpg);
+} 
+
+#marian9 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-left : 25px;
+margin-top  :20px;
+}
+
+#mar9 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian10 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent transparent grey;
+margin-top  :20px;
+}
+
+#mar10 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+#tenth {
+float : left;
+width : 320px;
+height : 60px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-left : 20px;
+margin-top  :5px;
+}
+
+#eleventh {
+float : left;
+width : 320px;
+height : 60px;
+margin-top  :10px;
+font-size : 18px;
+margin-left : 20px;
+}
+
+#continue1 {
+float : left;
+width : 150px;
+height : 30px;
+border : 1px solid silver;
+border-radius : 30px;
+margin-top : 15px;
+margin-left : 20px;
+font-size : 14px;
+}
+#con1 {
+margin-top : 5px;
+}
+
+#twelth {
+float : left;
+margin-top  :50px;
+width : 320px;
+height : 200px;
+border-radius : 30px;
+background-size : cover;
+background-image : url(7.jpg);
+} 
+
+#marian11 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-left : 25px;
+margin-top  :50px;
+}
+
+#mar11 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian12 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent transparent grey;
+margin-top  :50px;
+}
+
+#mar12 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+#thirteen {
+float : left;
+width : 320px;
+height : 60px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-left : 20px;
+margin-top  :5px;
+}
+
+#fourtheen {
+float : left;
+width : 320px;
+height : 60px;
+margin-top  :10px;
+font-size : 18px;
+margin-left : 20px;
+}
+
+#continue2 {
+float : left;
+width : 150px;
+height : 30px;
+border : 1px solid silver;
+border-radius : 30px;
+margin-top : 15px;
+margin-left : 20px;
+font-size : 14px;
+}
+#con2 {
+margin-top : 5px;
+}
+
+#fifteen {
+float : left;
+margin-top  :50px;
+width : 320px;
+height : 200px;
+border-radius : 30px;
+background-image : url(8.jpg);
+background-size : cover;
+} 
+
+#marian13 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-left : 25px;
+margin-top  :50px;
+}
+
+#mar13 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian14 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent transparent grey;
+margin-top  :50px;
+}
+
+#mar14 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+#sixteen {
+float : left;
+width : 320px;
+height : 60px;
+font-family : 'segoe UI';
+font-size : 22px;
+margin-left : 20px;
+margin-top  :5px;
+}
+
+#seventeen {
+float : left;
+width : 320px;
+height : 60px;
+margin-top  :10px;
+font-size : 18px;
+margin-left : 20px;
+}
+
+#continue3 {
+float : left;
+width : 150px;
+height : 30px;
+border : 1px solid silver;
+border-radius : 30px;
+margin-top : 15px;
+margin-left : 20px;
+font-size : 14px;
+}
+#con3 {
+margin-top : 5px;
+}
+
+
+#twentyone {
+float : left;
+margin-top  :50px;
+width : 320px;
+height : 200px;
+border-radius : 30px;
+background-image : url(9.jpg);
+background-size : cover;
+} 
+
+#marian15 {
+float : left;
+width : 80px;
+height : 20px;
+border : 1px solid transparent;
+margin-left : 25px;
+margin-top  :50px;
+}
+
+#mar15 {
+margin-top : 5px;
+font-size : 13px;
+}
+
+#marian16 {
+float : left;
+width : 130px;
+height : 20px;
+border : 1px solid;
+border-color : transparent transparent transparent grey;
+margin-top  :50px;
+}
+
+#mar16 {
+margin-top : 5px;
+margin-left : 15px;
+font-size : 13px;
+}
+
+#twentytwo {
+float : left;
+width : 320px;
+height : 60px;
+font-family : 'segoe UI';
+font-size : 24px;
+margin-left : 20px;
+margin-top  :5px;
+}
+
+#twentythree {
+float : left;
+width : 320px;
+height : 60px;
+margin-top  :10px;
+font-size : 18px;
+margin-left : 20px;
+}
+
+#continue4 {
+float : left;
+width : 150px;
+height : 30px;
+border : 1px solid silver;
+border-radius : 30px;
+margin-top : 15px;
+margin-left : 20px;
+font-size : 14px;
+}
+#con4 {
+margin-top : 5px;
+}
+
+
+#eighteen {
+width : 320px;
+height : 250px;
+float : left;
+margin-left : 7.5px;
+margin-top  : 25px;
+border-radius : 30px;
+background-image : url(rice.jpg);
+background-size : cover;
+}
+
+#newsletter { 
+float : left;
+width : 320px;
+height :30px;
+margin-left : 7.5px;
+margin-top  : 35px;
+background-color : pink;
+font-size : 16px;
+}
+#news { 
+margin-top : 5px;
+}
+
+#nineteen {
+float :left;
+width : 320px;
+height : 50px;
+margin-top  : 25px;
+}
+
+#twenty {
+float : left;
+width: 320px;
+height : 40px;
+border : 1px solid gray;
+border-radius : 30px;
+margin-left : 7.5px;
+background-color : lightgray;
+}
+
+#nin {
+margin-left : 50px;
+margin-top : 10px;
+}
+
+#scrolling1 {
+float : left;
+width : 221.6px;
+height : 200px;
+background-image : url(plates2.jpg);
+background-size : cover;
+margin-top  :90px;
+}
+
+#scrolling2 {
+float : left;
+width : 221.6px;
+height : 200px;
+background-image : url(plates3.jpg);
+background-size : cover;
+margin-top  :90px;
+}
+
+#scrolling3 {
+float : left;
+width : 221.6px;
+height : 200px;
+background-image : url(plates4.jpg);
+background-size : cover;
+margin-top  :90px;
+}
+
+#scrolling4 {
+float : left;
+width : 221.6px;
+height : 200px;
+background-image : url(plates5.jpg);
+background-size : cover;
+margin-top  :90px;
+}
+
+#scrolling5 {
+float : left;
+width : 221.6px;
+height : 200px;
+background-image : url(plates6.jpg);
+background-size : cover;
+margin-top  :90px;
+}
+
+#scrolling6 {
+float : left;
+width : 221.6px;
+height : 200px;
+background-image : url(plates7.jpg);
+background-size : cover;
+margin-top  :90px;
+}
+
+#socialmedia {
+float : left;
+width : 1000px;
+height : 30px;
+margin-left : 170px;
+margin-top  : 50px;
+}
+
+#facebook {
+float : left;
+font-size : 12px;
+}
+
+#twitter {
+float : left;
+margin-left : 50px;
+}
+
+#google1 {
+float : left;
+margin-left: 50px;
+}
+#go {
+margin-left : 2px;
+float : left;
+margin-top  : 1px;
+}
+
+#linkedin {
+float : left;
+margin-left : 50px;
+}
+
+#instagram {
+float : left;
+margin-left : 50px;
+}
+
+#vimeo {
+float : left;
+margin-left : 50px;
+}
+
+#youtube {
+float : left;
+margin-left : 50px;
+}
+
+#heading1 {
+position : relative;
+font-family : 'Shadows Into Light', Arial,sans-serif;
+font-size : 60px;
+margin-top : 60px;
+}
+
+#navigation_bar1 {
+position : relative;
+margin-left : 130px;
+}
+
+ul {
+list-style-type : none;
+margin : 0;
+padding : 0;
+overflow : hidden;
+margin-top : 25px;
+}
+
+li {
+float : left;
+margin : 0;
+padding : 0;
+}
+
+li a {
+display : block;
+background-color : white;
+text-decoration : none;
+text-align : center;
+padding : 8px 20px;
+}
+
+li a:hover {
+background-color : ;
+}
+
+ a.current  {
+color : red;
+}
+
+a.active {
+color : red;
+}
